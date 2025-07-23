@@ -2,6 +2,13 @@
 AI for Predicting Human Behavior in Social Media
 This project aims to analyze and predict human behavior on social media platforms using Natural Language Processing (NLP) and machine learning techniques. By leveraging the final_dataset_with_sarcasm_and_jokes dataset, the system classifies user sentiments (positive, negative, or neutral) from social media posts, helping researchers and organizations gain insights into public mood and online behavioral patterns.
 
+Project Structure:
+```bash
+├── final_code.ipynb
+├── final_dataset_with_sarcasm_and_jokes.csv 
+└── README.md
+```
+
 Objectives:
 Predict sentiment from user-generated text on social media,
 Understand emotional trends and behavioral patterns,
