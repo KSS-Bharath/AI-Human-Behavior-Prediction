@@ -7,7 +7,7 @@ Project Structure:
 ├── final_code.ipynb
 ├── final_dataset_with_sarcasm_and_jokes.csv 
 └── README.md
-```
+
 
 Objectives:
 Predict sentiment from user-generated text on social media,
@@ -20,4 +20,4 @@ NLP Libraries: NLTK, spaCy, Hugging Face Transformers;
 Machine Learning: Scikit-learn, TensorFlow / PyTorch;
 Models: LSTM, 
 Data Visualization: Matplotlib, Seaborn.
-
+```
